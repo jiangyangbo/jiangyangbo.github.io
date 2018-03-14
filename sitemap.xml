@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/03/07/oscars/</loc>
+    <loc>http://yoursite.com/2018/03/14/us/</loc>
     
-    <lastmod>2018-03-07T08:24:43.503Z</lastmod>
+    <lastmod>2018-03-14T06:50:37.321Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/02/27/us/</loc>
+    <loc>http://yoursite.com/2018/03/14/categories/%E5%90%8E%E7%AB%AF/gun/</loc>
     
-    <lastmod>2018-02-27T10:48:49.423Z</lastmod>
+    <lastmod>2018-03-14T06:13:19.373Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/14/categories/%E5%89%8D%E7%AB%AF/gun/</loc>
+    
+    <lastmod>2018-03-14T06:13:12.213Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/14/categories/tools/gun/</loc>
+    
+    <lastmod>2018-03-14T06:13:00.613Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/07/oscars/</loc>
+    
+    <lastmod>2018-03-07T08:24:43.503Z</lastmod>
     
   </url>
   
